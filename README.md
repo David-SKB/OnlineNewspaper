@@ -11,7 +11,7 @@ using	the	Django	framework.	The	site	should	provide	the	following	basic	function
    The	user	should	log	in	using	their	email	address	(which	should	be	unique)	and	
    password.	
 3. The	user’s	account	should	contain	at	least	email,	password,	name	and	phone	number.	
-4. If	a	user	is	logged	in	they	are	able	to	
+4. If	a	user	is	logged	in	they	are	able	to	:
 
 ..1. update	their	name	and/or	phone	number		
 
@@ -20,6 +20,12 @@ using	the	Django	framework.	The	site	should	provide	the	following	basic	function
 ..3. delete	a	comment	he	or	she	posted	previously	
 
 ..4. like	or	dislike	any	of	the	news	articles	.
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
 
 Outcome:	Once	fully	tested,	your	application	should	be	deployed	to	the	school’s	openshift	
 web	servers	(to	be	discussed	in	week	10).	Each	group	should	submit	the	code	together	
