@@ -13,10 +13,10 @@ using	the	Django	framework.	The	site	should	provide	the	following	basic	function
 3. The	user’s	account	should	contain	at	least	email,	password,	name	and	phone	number.	
 4. If	a	user	is	logged	in	they	are	able	to	
 
-.. 1. update	their	name	and/or	phone	number		
-.. 2. post	comments	on	any	of	the	news	articles	
-.. 3. delete	a	comment	he	or	she	posted	previously	
-.. 4. like	or	dislike	any	of	the	news	articles	.
+..1. update	their	name	and/or	phone	number		
+..2. post	comments	on	any	of	the	news	articles	
+..3. delete	a	comment	he	or	she	posted	previously	
+..4. like	or	dislike	any	of	the	news	articles	.
 Outcome:	Once	fully	tested,	your	application	should	be	deployed	to	the	school’s	openshift	
 web	servers	(to	be	discussed	in	week	10).	Each	group	should	submit	the	code	together	
 with	a	one-page	report	describing	one	extra	feature	that	goes	beyond	the	minimal	
