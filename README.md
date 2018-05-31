@@ -12,6 +12,7 @@ using	the	Django	framework.	The	site	should	provide	the	following	basic	function
    password.	
 3. The	user’s	account	should	contain	at	least	email,	password,	name	and	phone	number.	
 4. If	a	user	is	logged	in	they	are	able	to	
+
 .. 1. update	their	name	and/or	phone	number		
 .. 2. post	comments	on	any	of	the	news	articles	
 .. 3. delete	a	comment	he	or	she	posted	previously	
