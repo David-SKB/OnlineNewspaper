@@ -4,8 +4,8 @@ An Online Newspaper
 LINK --> http://dailystatistacks-ismail.apps.devcloud.eecs.qmul.ac.uk/
 
 Description:	The	task was	to	develop	a	basic	web	application	for	an	online	newspaper	
-using	the	Django	framework.	The	site	should	provide	the	following	basic	functionalities:		
---------------------------------------------------------------------------------------------
+               using	the	Django	framework.	The	site	should	provide	the	following	basic	functionalities:		
+
 1. News	articles	should	be	categorised	into	sections,	e.g.	Sports,	Business,	etc.	
 2. Users	have	the	option	of	creating	a	personal	account	and	are	able	to	login	and	logout.	
    The	user	should	log	in	using	their	email	address	(which	should	be	unique)	and	
