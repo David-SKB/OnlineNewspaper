@@ -18,7 +18,9 @@ using	the	Django	framework.	The	site	should	provide	the	following	basic	function
    * delete	a	comment	he	or	she	posted	previously	
    * like	or	dislike	any	of	the	news	articles	.
 
-Outcome:	Once	fully	tested,	your	application	should	be	deployed	to	the	school’s	openshift	
+Outcome:	
+--------
+Once	fully	tested,	your	application	should	be	deployed	to	the	school’s	openshift	
 web	servers	(to	be	discussed	in	week	10).	Each	group	should	submit	the	code	together	
 with	a	one-page	report	describing	one	extra	feature	that	goes	beyond	the	minimal	
 requirements	above.	Submit	these	as	a	single	zip	Vile.	Remember	to	include	in	the	report	
