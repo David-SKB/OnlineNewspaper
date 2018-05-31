@@ -1,5 +1,7 @@
-Django on OpenShift
+An Online Newspaper
 ===================
+
+LINK --> http://dailystatistacks-ismail.apps.devcloud.eecs.qmul.ac.uk/
 
 This git repository helps you get up and running quickly w/ a Django
 installation on OpenShift.  The Django project name used in this repo
