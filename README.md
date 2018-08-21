@@ -1,7 +1,7 @@
 An Online Newspaper
 ===================
 
-LINK --> http://dailystatistacks-ismail.apps.devcloud.eecs.qmul.ac.uk/
+LINK --> To be re-uploaded
 
 Description:	
 ------------
